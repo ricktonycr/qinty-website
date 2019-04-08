@@ -99,6 +99,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+__webpack_require__(4);
 
 class miClase {
    constructor(x, y) {
@@ -138,6 +139,12 @@ console.log(miObj.sumar(2, 4, 5, 6));
 
 /***/ }),
 /* 3 */
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+/* 4 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin
