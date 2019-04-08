@@ -96,10 +96,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_purecss_build_grids_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_purecss_build_grids_css__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(3);
 /* harmony import */ var _css_styles_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_css_styles_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _images_water_1920_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(4);
+/* harmony import */ var _images_water_1920_jpg__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_images_water_1920_jpg__WEBPACK_IMPORTED_MODULE_3__);
 
 
 
-__webpack_require__(4);
+
+__webpack_require__(5);
 
 class miClase {
    constructor(x, y) {
@@ -145,6 +148,12 @@ console.log(miObj.sumar(2, 4, 5, 6));
 
 /***/ }),
 /* 4 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "images/e7d3aebb4a9a254db81fc30c10843f60.jpg";
+
+/***/ }),
+/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin
